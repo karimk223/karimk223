@@ -10,13 +10,11 @@ My hands-on work includes FastAPI services, machine-learning model serving, LLM 
 
 Developing an n8n workflow for AI-assisted product images and content, with JavaScript file processing, Google Drive storage and Retool status tracking. The workflow design includes reference checks, validation, retries and human approval before delivery.
 
-[View the workflow repository](https://github.com/karimk223/aura-ai-workflow)
 
 ### MOIM Smart Complaints Tracking System · Capstone
 
 Built a team-based complaints-tracking web application with document uploads, employee review, approvals, status tracking and a database. Presented the project at the university Innovation Fair.
 
-[View the capstone repository](https://github.com/karimk223/Capstone-Project-Jalal-Karim)
 
 ### Document Ingestion and RAG System · Design stage
 
@@ -33,7 +31,6 @@ A completed collection of local Python applications and model-integration exampl
 - Local inference using Hugging Face Transformers and Ollama, plus OpenCV/DeepFace detection and face-verification demos.
 - Automated application tests and an executed ML notebook covering a classifier baseline, K-Means and PCA.
 
-[Explore the technical portfolio](https://github.com/karimk223/ai-engineering-study-log)
 
 ## Experience
 
