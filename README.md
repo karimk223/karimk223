@@ -2,27 +2,33 @@
 
 I'm a Computer Science graduate from the Lebanese American University, based in Lebanon. My focus is AI engineering and automation: building Python applications that connect models, APIs and data to useful workflows.
 
-My hands-on work includes FastAPI services, machine-learning model serving, LLM tool calling, local pretrained models and computer vision. I'm also developing an n8n workflow for AI-assisted product content and designing a document-ingestion and RAG system.
+My hands-on work includes FastAPI services, RAG and GraphRAG applications, machine-learning model serving, LLM tool calling, local pretrained models and computer vision. I built an AI ingestion engine for PDFs and videos, and I'm also developing an n8n workflow for AI-assisted product content.
 
 ## Selected projects
 
-### AURA by Nada AI Product Content Workflow · In progress
+### [AURA by Nada AI Product Content Workflow](https://github.com/karimk223/aura-ai-workflow) · In progress
 
 Developing an n8n workflow for AI-assisted product images and content, with JavaScript file processing, Google Drive storage and Retool status tracking. The workflow design includes reference checks, validation, retries and human approval before delivery.
 
 
-### MOIM Smart Complaints Tracking System · Capstone
+### [MOIM Smart Complaints Tracking System](https://github.com/karimk223/Capstone-Project-Jalal-Karim) · Capstone
 
 Built a team-based complaints-tracking web application with document uploads, employee review, approvals, status tracking and a database. Presented the project at the university Innovation Fair.
 
 
-### Document Ingestion and RAG System · Design stage
+### [AI Ingestion Engine](https://github.com/karimk223/ai-ingestion-engine) · RAG and GraphRAG
 
-Designing a pipeline for PDFs, scanned files and CSVs, including extraction/OCR, cleaning, chunking and source tracking. Planning retrieval-augmented question answering with embeddings, vector search and source citations. Implementation is the next milestone.
+Built a Python/FastAPI system that makes PDFs and videos searchable and answers questions with source references.
+
+- Extracts PDF text with OCR for scanned content, and combines video speech transcription with frame descriptions.
+- Creates local embeddings for Qdrant vector search and combines relevant passages with Neo4j graph relationships for GraphRAG.
+- Supports English, French and Arabic content, with source tracking through ingestion and retrieval.
+- Includes n8n upload and chat workflows, graph building, and meeting-minutes generation and email delivery.
+- Provides reviewed video ingestion, mixed PDF/video folder processing, and linked Markdown exports for Obsidian.
 
 ## Technical portfolio
 
-### AI Engineering Foundations
+### [AI Engineering Foundations](https://github.com/karimk223/ai-engineering-study-log)
 
 A completed collection of local Python applications and model-integration examples:
 
@@ -44,12 +50,13 @@ December 2025 – January 2026
 ## Skills
 
 - **Programming and data:** Python, SQL/MySQL, JavaScript, C/C++, pandas, NumPy.
-- **APIs and storage:** FastAPI, Pydantic, REST APIs, SQLite.
-- **Applied AI:** scikit-learn, model evaluation, LLM tool calling, Hugging Face Transformers, Ollama, OpenCV, DeepFace.
-- **Automation and tools:** n8n, Git/GitHub, Linux, pytest, unittest.
+- **APIs and storage:** FastAPI, Pydantic, REST APIs, SQLite, Qdrant, Neo4j.
+- **Applied AI:** RAG, GraphRAG, embeddings, OCR, speech transcription, LLM tool calling, scikit-learn, model evaluation, Hugging Face Transformers, Ollama, OpenCV, DeepFace.
+- **Automation and tools:** n8n, Docker, Git/GitHub, Linux, pytest, unittest.
 
 ## Connect
 
 I'm interested in junior AI engineering and automation opportunities where I can build, test and improve practical AI applications.
 
 [LinkedIn](https://www.linkedin.com/in/karim-khalil11/)
+
