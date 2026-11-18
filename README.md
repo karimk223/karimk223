@@ -2,13 +2,13 @@
 
 I'm a Computer Science graduate from the Lebanese American University, based in Lebanon. My focus is AI engineering and automation: building Python applications that connect models, APIs and data to useful workflows.
 
-My hands-on work includes FastAPI services, RAG and GraphRAG applications, machine-learning model serving, LLM tool calling, local pretrained models and computer vision. I built an AI ingestion engine for PDFs and videos, and I'm also developing an n8n workflow for AI-assisted product content.
+My work spans AI applications, document intelligence and workflow automation. I build Python services and n8n workflows that connect language models, APIs and data stores, with attention to source traceability, validation and human review.
 
 ## Selected projects
 
-### [AURA by Nada AI Product Content Workflow](https://github.com/karimk223/aura-ai-workflow) · In progress
+### [AURA by Nada AI Product Content Workflow](https://github.com/karimk223/aura-ai-workflow)
 
-Developing an n8n workflow for AI-assisted product images and content, with JavaScript file processing, Google Drive storage and Retool status tracking. The workflow design includes reference checks, validation, retries and human approval before delivery.
+Built an n8n workflow for AI-assisted product images and content, with JavaScript file processing, Google Drive storage and Retool status tracking. Implemented reference checks, validation, retries and human approval before delivery.
 
 
 ### [MOIM Smart Complaints Tracking System](https://github.com/karimk223/Capstone-Project-Jalal-Karim) · Capstone
@@ -52,7 +52,7 @@ December 2025 – January 2026
 - **Programming and data:** Python, SQL/MySQL, JavaScript, C/C++, pandas, NumPy.
 - **APIs and storage:** FastAPI, Pydantic, REST APIs, SQLite, Qdrant, Neo4j.
 - **Applied AI:** RAG, GraphRAG, embeddings, OCR, speech transcription, LLM tool calling, scikit-learn, model evaluation, Hugging Face Transformers, Ollama, OpenCV, DeepFace.
-- **Automation and tools:** n8n, Docker, Git/GitHub, Linux, pytest, unittest.
+- **Automation and tools:** n8n, Docker, Obsidian, Retool, Google Drive integrations, Git/GitHub, Linux, pytest, unittest.
 
 ## Connect
 
