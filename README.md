@@ -26,10 +26,6 @@ Built a Python/FastAPI system that makes PDFs and videos searchable and answers 
 - Includes n8n upload and chat workflows, graph building, and meeting-minutes generation and email delivery.
 - Provides reviewed video ingestion, mixed PDF/video folder processing, and linked Markdown exports for Obsidian.
 
-### [Cedarline Trading](https://github.com/karimk223/odoo-trading-bi-lab) · Odoo ERP, n8n, and Power BI
-
-Built an Odoo trading lab covering sales, purchasing, inventory, and accounting. Automated daily exports with n8n and verified that Power BI refreshed from the updated OneDrive files.
-
 ## Technical portfolio
 
 ### [AI Engineering Foundations](https://github.com/karimk223/ai-engineering-study-log)
@@ -41,6 +37,9 @@ A completed collection of local Python applications and model-integration exampl
 - Local inference using Hugging Face Transformers and Ollama, plus OpenCV/DeepFace detection and face-verification demos.
 - Automated application tests and an executed ML notebook covering a classifier baseline, K-Means and PCA.
 
+### [Cedarline Trading](https://github.com/karimk223/odoo-trading-bi-lab) · Odoo ERP, n8n, and Power BI
+
+Built an Odoo trading lab covering sales, purchasing, inventory, and accounting. Automated daily exports with n8n and verified that Power BI refreshed from the updated OneDrive files.
 
 ## Experience
 
